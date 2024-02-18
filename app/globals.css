@@ -1,0 +1,25 @@
+/* globals.css */
+
+/* Aplicar estilos al cuerpo de la página */
+body {
+  background-color: black; /* Fondo negro */
+  color: white; /* Texto blanco */
+}
+
+/* Estilos específicos para el encabezado de la página */
+.home-header {
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 1rem;
+}
+
+/* Estilos específicos para el pie de página */
+.home-footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+/* También puedes agregar otros estilos globales aquí si lo deseas */
